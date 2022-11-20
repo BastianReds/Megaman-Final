@@ -1,4 +1,4 @@
-# Megaman-Final
+# Megaman Style Video Game
  Final delivery of 2D videogame programming at Sergio Arboleda University.
  
  Created by:
