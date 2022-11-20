@@ -1,7 +1,7 @@
 # Megaman-Final
- Entrega final de programación de videojuegos en 2D de la universidad Sergio Arboleda
+ Final delivery of 2D videogame programming at Sergio Arboleda University.
  
- Integrantes:
+ Created by:
  
  Sebastian Rojas
  
